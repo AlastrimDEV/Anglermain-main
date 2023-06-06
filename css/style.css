@@ -680,7 +680,9 @@ section {
   color: #aaa;
   padding: 1rem 0;
 }
-
+.footer .box-container .box p a{
+ color:gray; 
+}
 .footer .box-container .box p i {
   padding-right: .5rem;
   color: #7f17d3;
@@ -716,11 +718,7 @@ section {
   text-transform: none;
 }
 
-.footer .box-container .box p a{
-  
-  color: gray;
 
-}
 
 .credit {
   font-size: 2rem;
