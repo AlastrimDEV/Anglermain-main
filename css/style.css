@@ -716,8 +716,10 @@ section {
   text-transform: none;
 }
 
-#myLink {
+.footer .box-container .box a{
+  
   color: gray;
+} 
 }
 
 .credit {
