@@ -716,6 +716,10 @@ section {
   text-transform: none;
 }
 
+#myLink {
+  color: gray;
+}
+
 .credit {
   font-size: 2rem;
   text-align: center;
