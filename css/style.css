@@ -502,7 +502,9 @@ section {
   color: #aaa;
   line-height: 2;
 }
-
+.text--title {
+    color: gray; 
+}
 .review {
   display: -webkit-box;
   display: -ms-flexbox;
